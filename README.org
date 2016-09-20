@@ -1,1 +1,4 @@
 * web site to manage projects using the scrum method
+
+[[http://waffle.io/WillianPaiva/ScrumBackLogSite][https://badge.waffle.io/WillianPaiva/ScrumBackLogSite.png?label=ready&title=Ready]]
+
